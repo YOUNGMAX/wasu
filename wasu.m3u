@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
@@ -117,15 +117,15 @@ https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="浙江频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="杭州1(综合)" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619034738537.jpg" group-title="杭州频道",杭州1(综合)
+#EXTINF:-1 tvg-name="杭州综合" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619034738537.jpg" group-title="杭州频道",杭州综合
 http://125.210.152.19:9120/live/hzgq-hzzhgq-h264.m3u8
-#EXTINF:-1 tvg-name="杭州2(明珠)" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619034941446.jpg" group-title="杭州频道",杭州2(明珠)
+#EXTINF:-1 tvg-name="杭州西湖明珠" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619034941446.jpg" group-title="杭州频道",杭州西湖明珠
 http://125.210.152.19:9120/live/hzgq-xhmzgq-h264.m3u8
-#EXTINF:-1 tvg-name="杭州3(生活)" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619035920539.jpg" group-title="杭州频道",杭州3(生活)
+#EXTINF:-1 tvg-name="杭州生活" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619035920539.jpg" group-title="杭州频道",杭州生活
 http://125.210.152.19:9120/live/hzgq-hzshgq-h264.m3u8
-#EXTINF:-1 tvg-name="杭州4(影视)" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619035441577.jpg" group-title="杭州频道",杭州4(影视)
+#EXTINF:-1 tvg-name="杭州影视" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619035441577.jpg" group-title="杭州频道",杭州影视
 http://125.210.152.19:9120/live/hzgq-hzysgq-h264.m3u8
-#EXTINF:-1 tvg-name="杭州5(少体)" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619040207771.jpg" group-title="杭州频道",杭州5(少体)
+#EXTINF:-1 tvg-name="杭州青少体育" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619040207771.jpg" group-title="杭州频道",杭州青少体育
 http://125.210.152.19:9120/live/hzgq-hzsegq-h264.m3u8
 #EXTINF:-1 tvg-name="杭州导视" tvg-logo="http://tv.haoqu99.com/d/file/2017/0916/small64a85059b28c461737e1d08e0e05d5161505534431.jpg" group-title="杭州频道",杭州导视
 http://125.210.152.19:9120/live/hzgq-hzdsgq-h264.m3u8
