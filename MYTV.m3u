@@ -41,20 +41,23 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000032/index.m3u8?
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/TBS.png" group-title="国际频道",TBS
 http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 tvg-name="Rakuten Viki" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenViki.png" group-title="国际频道",Rakuten Viki
+#EXTINF:-1 tvg-name="Rakuten Viki" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenViki.png" group-title="国际频道",Rakuten Viki HD
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Rakuten Family" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenTV.png" group-title="国际频道",Rakuten Family
-https://rakuten-family-1-gb.xiaomi.wurl.tv/playlist.m3u8
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten Family" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenTV.png" group-title="国际频道",Rakuten Family HD
+https://rakuten-family-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Rakuten Comedy" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenTV.png" group-title="国际频道",Rakuten Comedy
-https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten Comedy" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenTV.png" group-title="国际频道",Rakuten Comedy HD
+https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Rakuten Action" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenTV.png" group-title="国际频道",Rakuten Action
-https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten Thriller" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenTV.png" group-title="国际频道",Rakuten Thriller
+#EXTINF:-1 tvg-name="Rakuten Action" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenTV.png" group-title="国际频道",Rakuten Action HD
+https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten Thriller" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenTV.png" group-title="国际频道",Rakuten Thriller HD
 https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten British Films" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenTV.png" group-title="国际频道",Rakuten British Films
+#EXTINF:-1 tvg-name="Rakuten British Films" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenTV.png" group-title="国际频道",Rakuten British Films HD
 https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Rakuten Spotlight" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenTV.png" group-title="国际频道",Rakuten Spotlight
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
