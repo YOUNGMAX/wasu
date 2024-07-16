@@ -62,20 +62,20 @@ https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Rakuten Spotlight" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenTV.png" group-title="国际频道",Rakuten Spotlight
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="回放测试",CCTV-5 体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+http://148.135.93.213:81/live.php?id=CCTV5
 #EXTINF:-1 tvg-name="CCTV5plus" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="回放测试",CCTV-5+ 体育赛事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+http://148.135.93.213:81/live.php?id=CCTV5p
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="回放测试",CCTV-6 电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+http://148.135.93.213:81/live.php?id=CCTV6
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="回放测试",CCTV-9 纪录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+http://148.135.93.213:81/live.php?id=CCTV9
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="回放测试",CCTV-10 科教
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+http://148.135.93.213:81/live.php?id=CCTV10
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="回放测试",CHC动作电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+http://148.135.93.213:81/live.php?id=CHC动作电影
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="回放测试",CHC家庭影院
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
+http://148.135.93.213:81/live.php?id=CHC家庭影院
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="回放测试",CHC影迷电影
-https://itv.lat/hls?channel=lnwsCHC-HDH265&token=86d51ce7753a36079041fc15f7248035
+http://148.135.93.213:81/live.php?id=CHC高清电影
 #EXTINF:-1 tvg-name="4K超高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="回放测试",4K超高清电影
 https://itv.lat/hls?channel=emdy4k_8000&token=86d51ce7753a36079041fc15f7248035
