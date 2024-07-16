@@ -62,20 +62,20 @@ https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Rakuten Spotlight" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenTV.png" group-title="国际频道",Rakuten Spotlight
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="回放测试",CCTV-5 体育
-https://itv.lat/hls?channel=CCTV-5H265&token=fbca23599065f5bd644b330db4e3b1f5
+https://itv.lat/hls?channel=CCTV-5H265&token=86d51ce7753a36079041fc15f7248035
 #EXTINF:-1 tvg-name="CCTV5plus" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="回放测试",CCTV-5+ 体育赛事
-https://itv.lat/hls?channel=CCTV-5plusH265&token=fbca23599065f5bd644b330db4e3b1f5
+https://itv.lat/hls?channel=CCTV-5plusH265&token=86d51ce7753a36079041fc15f7248035
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="回放测试",CCTV-6 电影
-https://itv.lat/hls?channel=CCTV-6H265&token=fbca23599065f5bd644b330db4e3b1f5
+https://itv.lat/hls?channel=CCTV-6H265&token=86d51ce7753a36079041fc15f7248035
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="回放测试",CCTV-9 纪录
-https://itv.lat/hls?channel=CCTV-9H265&token=fbca23599065f5bd644b330db4e3b1f5
+https://itv.lat/hls?channel=CCTV-9H265&token=86d51ce7753a36079041fc15f7248035
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="回放测试",CCTV-10 科教
-https://itv.lat/hls?channel=CCTV-10H265&token=fbca23599065f5bd644b330db4e3b1f5
+https://itv.lat/hls?channel=CCTV-10H265&token=86d51ce7753a36079041fc15f7248035
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="回放测试",CHC动作电影
-https://itv.lat/hls?channel=wqCHCdzdyH265&token=fbca23599065f5bd644b330db4e3b1f5
+https://itv.lat/hls?channel=wqCHCdzdyH265&token=86d51ce7753a36079041fc15f7248035
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="回放测试",CHC家庭影院
-https://itv.lat/hls?channel=jbtygqCHCjtyyH265&token=fbca23599065f5bd644b330db4e3b1f5
+https://itv.lat/hls?channel=jbtygqCHCjtyyH265&token=86d51ce7753a36079041fc15f7248035
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="回放测试",CHC影迷电影
-https://itv.lat/hls?channel=lnwsCHC-HDH265&token=fbca23599065f5bd644b330db4e3b1f5
+https://itv.lat/hls?channel=lnwsCHC-HDH265&token=86d51ce7753a36079041fc15f7248035
 #EXTINF:-1 tvg-name="4K超高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="回放测试",4K超高清电影
-https://itv.lat/hls?channel=emdy4k_8000&token=fbca23599065f5bd644b330db4e3b1f5
+https://itv.lat/hls?channel=emdy4k_8000&token=86d51ce7753a36079041fc15f7248035
