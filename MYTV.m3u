@@ -79,3 +79,5 @@ https://itv.lat/hls?channel=jbtygqCHCjtyyH265&token=86d51ce7753a36079041fc15f724
 https://itv.lat/hls?channel=lnwsCHC-HDH265&token=86d51ce7753a36079041fc15f7248035
 #EXTINF:-1 tvg-name="4K超高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="回放测试",4K超高清电影
 https://itv.lat/hls?channel=emdy4k_8000&token=86d51ce7753a36079041fc15f7248035
+#EXTINF:-1 tvg-name="4K超高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="回放测试",4K超高清电影
+https://itv.lat/hls?channel=emdy4k_8000&token=86d51ce7753a36079041fc15f7248035
