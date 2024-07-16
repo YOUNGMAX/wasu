@@ -11,7 +11,7 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000375/index.m3u8?IAS
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="地方频道",浙江民生休闲
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-name="西湖明珠" tvg-logo="https://upload.112114.xyz/logo/HANGZHOU2.png" group-title="地方频道",杭州西湖明珠
+#EXTINF:-1 tvg-name="西湖明珠" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/zhejiang/Hangzhou2.png" group-title="地方频道",杭州西湖明珠
 http://nas.mfparking.com:4022/udp/233.50.201.174:5140
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="数字付费",求索纪录
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
@@ -39,18 +39,25 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000035/index.m3u8?
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="iHOT爱奇谈" tvg-logo="https://live.fanmingming.com/tv//IHOT爱奇谈.png" group-title="IHOT",iHOT爱奇谈
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 group-title="国际频道",TBS
+#EXTINF:-1 tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/TBS.png" group-title="国际频道",TBS
 http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 group-title="国际频道",Rakuten Viki
+#EXTINF:-1 tvg-name="Rakuten Viki" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenViki.png" group-title="国际频道",Rakuten Viki
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",Rakuten Comedy
+#EXTINF:-1 tvg-name="Rakuten Family" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenTV.png" group-title="国际频道",Rakuten Family
+https://rakuten-family-1-gb.xiaomi.wurl.tv/playlist.m3u8
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten Comedy" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenTV.png" group-title="国际频道",Rakuten Comedy
 https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",Rakuten Action
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten Action" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenTV.png" group-title="国际频道",Rakuten Action
 https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",Rakuten Thriller
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten Thriller" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenTV.png" group-title="国际频道",Rakuten Thriller
 https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",Rakuten British Films
+#EXTINF:-1 tvg-name="Rakuten British Films" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenTV.png" group-title="国际频道",Rakuten British Films
 https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten Spotlight" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenTV.png" group-title="国际频道",Rakuten Spotlight
+https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="回放测试",CCTV-5 体育
 https://itv.lat/hls?channel=CCTV-5H265&token=fbca23599065f5bd644b330db4e3b1f5
 #EXTINF:-1 tvg-name="CCTV5plus" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="回放测试",CCTV-5+ 体育赛事
