@@ -79,13 +79,15 @@ https://itv.lat/hls?channel=lnwsCHC-HDH265&token=fbca23599065f5bd644b330db4e3b1f
 https://itv.lat/hls?channel=emdy4k_8000&token=fbca23599065f5bd644b330db4e3b1f5
 #EXTINF:-1 group-title="国际频道",TBS
 http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 group-title="国际频道",Rakuten Viki 
+#EXTINF:-1 group-title="国际频道",Rakuten Viki
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际频道",Rakuten Comedy
 https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际频道",Rakuten Action
 https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",Rakuten Thriller 
+#EXTINF:-1 group-title="国际频道",Rakuten Thriller
 https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",Rakuten British Films 
+#EXTINF:-1 group-title="国际频道",Rakuten British Films
 https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",Cartoon Network TV Asia Channel 
+https://cdn.ggapk.net/live/tv?id=ff81nS3C47b71IGQXeOLmRxSffCFsMqgvC3aikaTSr7IvBHMg4zRjizGDTfrgbTfLOdGmu10zeKkJPEXk6mwKcE68iVeebI3LG2_b89vXJ4QQpUWUC4iuBR493w0Wkyk7qTuk7MfWCiiPCyi-m0ksUSinswZWtlkn6-zQBrgNC9B&idp=c6c6GC-12vOwgtspnSw06leqQV_qjt-Gm6dB0Lz7uoSjLl-P
