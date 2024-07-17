@@ -80,4 +80,21 @@ http://148.135.93.213:81/live.php?id=CHC家庭影院
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="回放测试",CHC影迷电影
 http://148.135.93.213:81/live.php?id=CHC高清电影
 #EXTINF:-1 tvg-name="4K超高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="回放测试",4K超高清电影
-https://itv.lat/hls?channel=emdy4k_8000&token=86d51ce7753a36079041fc15f7248035
+https://live3.rxip.sc96655.com/live/emdy4k.m3u8
+#EXTINF:-1 tvg-name="百事通4K电影" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BesTV-4K.png?raw=true" group-title="UHD-上海电信",百事通4K电影
+http://124.79.25.97:4022/udp/239.45.3.107:5140
+#EXTINF:-1 tvg-name="百事通4K纪实" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BesTV-4K.png?raw=true" group-title="UHD-上海电信",百事通4K纪实
+http://124.79.25.97:4022/udp/239.45.1.10:5140
+#EXTINF:-1 tvg-name="百事通4K纪实" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BesTV-4K.png?raw=true" group-title="UHD-上海电信",百事通4K测试
+http://124.79.25.97:4022/udp/239.45.1.108:5140
+#EXTINF:-1 tvg-name="百事通4K儿童" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BesTV-4K.png?raw=true" group-title="UHD-上海电信",百事通4K儿童
+http://124.79.25.97:4022/udp/239.45.1.1:5140
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%88%B1%E4%B8%8A4K.png" group-title="UHD-IPV6",爱上4K V6
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?blog.ntnas.top
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%88%B1%E4%B8%8A4K.png" group-title="UHD-四川电信",爱上4K 四川电信
+http://171.214.224.243:55555/udp/239.93.0.97:5140
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%88%B1%E4%B8%8A4K.png" group-title="UHD-北京联通",爱上4K 北京联通
+http://123.118.226.12:9090/rtp/239.2.1.236:2000
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%88%B1%E4%B8%8A4K.png" group-title="UHD-北京联通",爱上4K 甘肃电信
+http://118.183.212.36:6868/udp/239.255.30.76:8231
