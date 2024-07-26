@@ -14,6 +14,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-name="西湖明珠" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/zhejiang/Hangzhou2.png" group-title="地方频道",杭州西湖明珠
 http://nas.mfparking.com:4022/udp/233.50.201.174:5140
+#EXTINF:-1 tvg-name="西湖明珠" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/zhejiang/Hangzhou2.png" group-title="地方频道",杭州西湖明珠
+http://www.372583307.top:4022/udp/233.50.201.174:5140
 
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="数字付费",求索纪录
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
