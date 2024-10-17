@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://e.erw.cc/all.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
@@ -15,7 +15,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="地方频道",浙江民生休闲
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+http://125.210.152.19:9120/live/hzgq-msxxgq-h264.m3u8
 #EXTINF:-1 tvg-name="西湖明珠" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/HTV-2.png" group-title="地方频道",杭州西湖明珠
 http://125.210.152.19:9120/live/hzgq-xhmzgq-h264.m3u8
 
@@ -82,4 +82,4 @@ http://148.135.93.213:81/live.php?id=CHC家庭影院
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="备用频道",CHC影迷电影
 http://148.135.93.213:81/live.php?id=CHC高清电影
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="备用频道",浙江民生休闲
-http://125.210.152.19:9120/live/hzgq-msxxgq-h264.m3u8
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
