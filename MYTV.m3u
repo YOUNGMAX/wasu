@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/index.m3u8
 
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/浙江民生休闲.png" group-title="地方频道",浙江民生休闲
 http://125.210.152.19:9120/live/hzgq-msxxgq-h264.m3u8
@@ -31,11 +31,11 @@ http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000008/index.m3u8
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CHC动作电影.png" group-title="数字付费",CHC动作电影
-https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
+http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CHC家庭影院.png" group-title="数字付费",CHC家庭影院
-https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
+http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CHC影迷电影.png" group-title="数字付费",CHC影迷电影
-https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
+http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/爱上4K.png" group-title="数字付费",爱上4K
 http://115.171.80.176:8888/udp/225.1.8.80:2000
 #EXTINF:-1 tvg-name="IFUN动漫台" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/IFUN动漫台.png" group-title="数字付费",IFUN动漫台
@@ -53,7 +53,7 @@ http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000032/index.m3u8
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281
 
 #EXTINF:-1 tvg-name="TVBJ2" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/TVBJ2.png" group-title="国际频道",TVBJ2
-http://ali.hlspull.yximgs.com/live/20200da7059a0e48422514d60f64211a.flv
+http://cdn.132.us.kg/live/tvbp/stream.m3u8
 #EXTINF:-1 tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/TBS.png" group-title="国际频道",TBS
 http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 tvg-name="Rakuten Viki" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/RakutenViki.png" group-title="国际频道",Rakuten Viki
