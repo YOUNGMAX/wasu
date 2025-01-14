@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/浙江民生休闲.png" group-title="地方频道",浙江民生休闲
 http://125.210.152.19:9120/live/hzgq-msxxgq-h264.m3u8
@@ -20,37 +20,37 @@ http://125.210.152.19:9120/live/hzgq-msxxgq-h264.m3u8
 http://125.210.152.19:9120/live/hzgq-xhmzgq-h264.m3u8
 
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/劲爆体育.png" group-title="数字付费",劲爆体育
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/求索纪录.png" group-title="数字付费",求索纪录
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="求索科学" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/求索科学.png" group-title="数字付费",求索科学
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/求索生活.png" group-title="数字付费",求索生活
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/求索动物.png" group-title="数字付费",求索动物
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=YanG-1989
 
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CHC动作电影.png" group-title="数字付费",CHC动作电影
-http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CHC家庭影院.png" group-title="数字付费",CHC家庭影院
-http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CHC影迷电影.png" group-title="数字付费",CHC影迷电影
-http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/爱上4K.png" group-title="数字付费",爱上4K
 http://wouu.net:9977/udp/239.93.0.97:5140
 #EXTINF:-1 tvg-name="IFUN动漫台" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/IFUN动漫台.png" group-title="数字付费",IFUN动漫台
 http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="iHOT爱院线" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/IHOT爱院线.png" group-title="IHOT",iHOT爱院线
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000004000000034/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="iHOT爱科幻" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/IHOT爱科幻.png" group-title="IHOT",iHOT爱科幻
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000004000000033/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000033&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="iHOT爱浪漫" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/IHOT爱浪漫.png" group-title="IHOT",iHOT爱浪漫
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000004000000035/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000035&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="iHOT爱喜剧" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/IHOT爱喜剧.png" group-title="IHOT",iHOT爱喜剧
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000004000000032/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000032&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="iHOT爱奇谈" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/IHOT爱奇谈.png" group-title="IHOT",iHOT爱奇谈
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000004000000058/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000058&livemode=1&stbId=YanG-1989
 
 #EXTINF:-1 tvg-name="TVBJ2" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/TVBJ2.png" group-title="国际频道",TVBJ2
 http://cdn.132.us.kg/live/tvbp/stream.m3u8
