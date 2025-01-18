@@ -35,7 +35,7 @@ http://125.210.152.19:9120/live/hzgq-cctvmusicgq-h264.m3u8
 http://125.210.152.19:9120/live/hzgq-cctv16gq-h264.m3u8
 #EXTINF:-1,CCTV17
 http://125.210.152.19:9120/live/hzgq-cctv17gq-h264.m3u8
-#EXTINF:-1,中国教育4
+#EXTINF:-1,CETV4
 http://125.210.152.19:9120/live/hszx-CETV-4-h264.m3u8
 #EXTINF:-1,北京卫视
 http://125.210.152.19:9120/live/hzgq-bjgqws-h264.m3u8
@@ -105,13 +105,13 @@ http://125.210.152.19:9120/live/hszx-xztv-h264.m3u8
 http://125.210.152.19:9120/live/hszx-lytv-h264.m3u8
 #EXTINF:-1,三沙卫视
 http://125.210.152.19:9120/live/hzgq-ssws-h264.m3u8
-#EXTINF:-1,浙江钱江都市
+#EXTINF:-1,钱江都市
 http://125.210.152.19:9120/live/hzgq-qjtvgq-h264.m3u8
-#EXTINF:-1,浙江公共新闻
+#EXTINF:-1,浙江新闻
 http://125.210.152.19:9120/live/hzgq-zjnewsgq-h264.m3u8
 #EXTINF:-1,浙江经济生活
 http://125.210.152.19:9120/live/hzgq-zjjsgq-h264.m3u8
-#EXTINF:-1,浙江教育科技
+#EXTINF:-1,浙江教科影视
 http://125.210.152.19:9120/live/hzgq-zjjygq-h264.m3u8
 #EXTINF:-1,浙江民生休闲
 http://125.210.152.19:9120/live/hzgq-msxxgq-h264.m3u8
@@ -129,7 +129,7 @@ http://125.210.152.19:9120/live/hzgq-hzysgq-h264.m3u8
 http://125.210.152.19:9120/live/hzgq-hzsegq-h264.m3u8
 #EXTINF:-1,杭州导视
 http://125.210.152.19:9120/live/hzgq-hzdsgq-h264.m3u8
-#EXTINF:-1,华数高清
+#EXTINF:-1,华数4K
 http://125.210.152.19:9120/live/hzgq-hsfwgq-h264.m3u8
 #EXTINF:-1,求索纪录
 http://125.210.152.19:9120/live/hzgq-qsjlgq-h264.m3u8
