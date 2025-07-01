@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/kilvn/iptv/refs/heads/master/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://e.erw.cc/all.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/main/logo/CCTV5.png" group-title="央视频道",CCTV-5 体育
