@@ -138,6 +138,8 @@ http://125.210.152.19:9120/live/hzgq-hzsegq-h264.m3u8
 #EXTINF:-1 tvg-name="杭州导视" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/refs/heads/main/logo/杭州导视.png" group-title="杭州频道",杭州导视
 http://125.210.152.19:9120/live/hzgq-hzdsgq-h264.m3u8
 
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/refs/heads/main/logo/五星体育.png" group-title="数字频道",五星体育
+http://8.138.7.223/tv/shtv.php?id=wxty
 #EXTINF:-1 tvg-name="华数4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/华数4K.png" group-title="数字频道",华数高清
 http://125.210.152.19:9120/live/hzgq-hsfwgq-h264.m3u8
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/求索纪录.png" group-title="数字频道",求索纪录
