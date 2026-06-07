@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://e.erw.cc/e.xml" 
+#EXTM3U x-tvg-url="https://ghfast.top/https://raw.githubusercontent.com/kuke31/xmlgz/main/e.xml.gz"
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
@@ -138,9 +138,37 @@ http://125.210.152.19:9120/live/hzgq-hzsegq-h264.m3u8
 #EXTINF:-1 tvg-name="杭州导视" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/refs/heads/main/logo/杭州导视.png" group-title="杭州频道",杭州导视
 http://125.210.152.19:9120/live/hzgq-hzdsgq-h264.m3u8
 
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/refs/heads/main/logo/五星体育.png" group-title="数字频道",五星体育
-http://8.138.7.223/tv/shtv.php?id=wxty
 #EXTINF:-1 tvg-name="华数4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/华数4K.png" group-title="数字频道",华数高清
 http://125.210.152.19:9120/live/hzgq-hsfwgq-h264.m3u8
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/求索纪录.png" group-title="数字频道",求索纪录
 http://125.210.152.19:9120/live/hzgq-qsjlgq-h264.m3u8
+
+#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/refs/heads/main/logo/纬来体育台.png" group-title="港澳台频道",緯來體育
+rtmp://f13h.mine.nu/sat/tv721
+
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="我的收藏",CCTV4
+http://125.210.152.19:9120/live/hzgq-cctv4gq-h264.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="我的收藏",CCTV5
+http://125.210.152.19:9120/live/hzgq-cctv5gq-h264.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="我的收藏",CCTV5+
+http://125.210.152.19:9120/live/hzgq-cctvzhgq-h264.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV6.png" group-title="我的收藏",CCTV6
+http://125.210.152.19:9120/live/hzgq-cctv6gq-h264.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV9.png" group-title="我的收藏",CCTV9
+http://125.210.152.19:9120/live/hzgq-cctvjlgq-h264.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV10.png" group-title="我的收藏",CCTV10
+http://125.210.152.19:9120/live/hzgq-cctv10gq-h264.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="我的收藏",CCTV16
+http://125.210.152.19:9120/live/hzgq-cctv16gq-h264.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/湖南卫视.png" group-title="我的收藏",湖南卫视
+http://125.210.152.19:9120/live/hzgq-hnwsgq-h264.m3u8
+#EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/浙江民生休闲.png" group-title="我的收藏",浙江民生休闲
+http://125.210.152.19:9120/live/hzgq-msxxgq-h264.m3u8
+#EXTINF:-1 tvg-name="西湖明珠" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/refs/heads/main/logo/西湖明珠.png" group-title="我的收藏",西湖明珠
+http://125.210.152.19:9120/live/hzgq-xhmzgq-h264.m3u8
+#EXTINF:-1 tvg-name="杭州青少体育" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/refs/heads/main/logo/杭州青少体育.png" group-title="我的收藏",杭州青少体育
+http://125.210.152.19:9120/live/hzgq-hzsegq-h264.m3u8
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/refs/heads/main/logo/求索纪录.png" group-title="我的收藏",求索纪录
+http://125.210.152.19:9120/live/hzgq-qsjlgq-h264.m3u8
+#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="https://raw.githubusercontent.com/YOUNGMAX/wasu/refs/heads/main/logo/纬来体育台.png" group-title="我的收藏",緯來體育
+rtmp://f13h.mine.nu/sat/tv721
